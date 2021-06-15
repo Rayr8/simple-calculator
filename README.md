@@ -19,6 +19,6 @@ We included the following operations:
 - JavaScript
 
 ## Authors
-Raeesah Ismail
+Raeesah Ismail and Natasha Chitongo
 
-Natasha Chitongo
+![Math is fun](https://akm-img-a-in.tosshub.com/indiatoday/images/story/201809/maths.jpeg?IVE04mofhXiNU6obmiRGZ3DSX13jSI0O&size=770:433)
