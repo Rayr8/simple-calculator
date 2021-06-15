@@ -28,9 +28,10 @@ function divide(x, y) {
     let divide = x / y;
     console.log(divide);
 }
+
  divide(20, 10);
  
- //Mix
+ //Operator Precedence
  function mixedOp(x, y) {
      let answer = 50 - x + (y * 2) + 10 / x;
      console.log(answer);
@@ -55,6 +56,7 @@ function oddOrEven(x){
         console.log("It is an Odd number");
     }
 }
+
 oddOrEven(12);
 oddOrEven(17);
 
@@ -63,6 +65,7 @@ function upSize(x){
     x++;
     console.log(x);
 }
+
 upSize(3);
 upSize(5);
 
@@ -71,5 +74,44 @@ function downSize(y){
     y--;
     console.log(y);
 }
+
 upSize(2);
 upSize(8);
+
+/*Compound Assignments 
+
+Augmented Addition*/
+function compAdd(val){
+    let augAdd = val+=3;
+    console.log(augAdd);
+}
+
+compAdd(7);
+
+//Augmented Subtraction
+function compSub(val){
+    let augSub = val-=5;
+    console.log(augSub);
+}
+
+compSub(10);
+
+//Augmented Multiplication
+function compMult(val){
+    let augMult = val *=10;
+    console.log(augMult);
+}
+
+compMult(8);
+
+//Augmented Division
+function compDiv(val){
+    let augDiv = val/=2;
+    console.log(augDiv);
+}
+
+compDiv(100);
+
+
+    
+    
