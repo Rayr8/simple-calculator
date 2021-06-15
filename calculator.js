@@ -29,3 +29,21 @@ function divide(x, y) {
 }
  divide(20, 10);
  
+ //Mix
+ function mixedOp(x, y) {
+     let answer = 50 - x (y * 2) + 10 / x;
+     console.log(answer);
+     }
+
+mixedOp(5, 4)
+
+//Percentage
+//num is your number
+//per is your percentage
+function percentage(x, y) {
+  let answer = (num1/num2)*100;
+console.log(percentage);
+}
+
+percentage(30, 40)
+
