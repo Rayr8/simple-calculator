@@ -41,7 +41,7 @@ mixedOp(5, 4)
 //num is your number
 //per is your percentage
 function percentage(x, y) {
-  let answer = (num1/num2)*100;
+  let answer = (x/y)*100;
 console.log(percentage);
 }
 
