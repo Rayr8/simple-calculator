@@ -8,6 +8,7 @@ We included the following operations:
 - Subtraction
 - Multiplication
 - Division
+- Operator precedence
 - Percentages
 - Remainders
 - Increments
