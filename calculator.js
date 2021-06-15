@@ -28,5 +28,4 @@ function divide(x,y){
     console.log(quotient);
 }
 
-divide(100,25)
-
+divide(100,25);
