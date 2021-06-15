@@ -28,5 +28,4 @@ function divide(x, y) {
     console.log(divide);
 }
  divide(20, 10);
-
  
