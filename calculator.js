@@ -15,6 +15,7 @@ function subtract(x, y) {
 subtract(10, 3);
 
 //Multiplication
+
 function multiply(x, y) {
     let multiply = x * y;
     comsole.log(multiply);
@@ -35,15 +36,15 @@ function divide(x, y) {
      console.log(answer);
      }
 
-mixedOp(5, 4)
+mixedOp(5, 4);
 
 //Percentage
-//num is your number
-//per is your percentage
 function percentage(x, y) {
-  let answer = (x/y)*100;
+  let answer = (x / y) * 100;
 console.log(percentage);
 }
 
-percentage(30, 40)
+percentage(30, 40);
+
+
 
