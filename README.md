@@ -21,4 +21,4 @@ We included the following operations:
 ## Authors
 **Raeesah Ismail** and **Natasha Chitongo**
 
-![Math is fun](https://akm-img-a-in.tosshub.com/indiatoday/images/story/201809/maths.jpeg?IVE04mofhXiNU6obmiRGZ3DSX13jSI0O&size=770:433)
+![Math is fun](https://www.seekpng.com/png/full/368-3687978_11-maths-is-fun-png.png)
